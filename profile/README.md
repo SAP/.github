@@ -1,8 +1,8 @@
-# Open Source @ SAP - Run better together with Open Source
+# Run better together with Open Source
 
 ![SAP Open Source Logo](sap-ospo-logo.jpg "SAP Open Source Logo")
 
-- [Website](https://opensource.sap.com)
+- [Open Source @ SAP](https://opensource.sap.com)
 - [Podcast series "The Open Source Way"](https://podcast.opensap.info/open-source-way/)
 - [Webinar series "SAP Open Source"](https://webinars.sap.com/ospo-webinar-series/en/home)
 - [Blog](https://blogs.sap.com/tags/b2aac474-1581-4b1b-8932-de5f60b52558/)
