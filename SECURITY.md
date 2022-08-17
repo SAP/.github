@@ -33,7 +33,7 @@ We prefer all communications to be in English.
 
 ## Disclosure Guidelines
 
-We like to ask you to follow the [Disclosure Guidelines for SAP Security Advisories](https://wiki.scn.sap.com/wiki/display/PSR/Disclosure+Guidelines+for+SAP+Security+Advisories).
+We like to ask you to follow the [Disclosure Guidelines for SAP Security Advisories](https://www.sap.com/documents/2022/02/9ccd9ca0-167e-0010-bca6-c68f7e60039b.html).
 
 ## SAP Internal Response Process
 
