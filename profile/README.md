@@ -5,5 +5,5 @@
 - [Open Source Community @ SAP](https://pages.community.sap.com/topics/open-source)
 - [Podcast series "The Open Source Way"](https://podcast.opensap.info/open-source-way/)
 - [Webinar series "SAP Open Source"](https://webinars.sap.com/ospo-webinar-series/en/home)
-- [Blog posts](https://blogs.sap.com/tags/b2aac474-1581-4b1b-8932-de5f60b52558/)
+- [Blog posts](https://community.sap.com/t5/open-source-blogs/bg-p/open-sourceblog-board)
 - [Jobs](https://jobs.sap.com/search/?q=%22open+source%22)
