@@ -6,5 +6,3 @@ We are part of an EU initiative, an Important Project of Common European Interes
 
 - [Official Website](https://apeirora.eu)
 - [BMWK Press Article](https://www.bmwk.de/Redaktion/EN/Artikel/Industry/ipcei-cis.html)
-
-## Our Projects:
