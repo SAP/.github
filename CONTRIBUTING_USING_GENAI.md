@@ -1,6 +1,6 @@
 # Guideline for AI-generated code contributions to SAP Open Source Software Projects
 
-As artificial intelligence evolves, AI-generated code is becoming valuable for many software projects, including open-source initiatives. While we recognize the potential benefits of incorporating AI-generated content into our open-source projects there a certain requirements that need to be reflected and adhered to when making contributions.
+As artificial intelligence evolves, AI-generated code is becoming valuable for many software projects, including open-source initiatives. While we recognize the potential benefits of incorporating AI-generated content into our open-source projects there are certain requirements that need to be reflected and adhered to when making contributions.
 
 When using AI-generated code contributions in OSS Projects, their usage needs to align with Open-Source Software values and legal requirements. We have established these essential guidelines to help contributors navigate the complexities of using AI tools while maintaining compliance with open-source licenses and the broader [Open-Source Definition](https://opensource.org/osd).
 
