@@ -7,4 +7,4 @@
 - [Webinar series "SAP Open Source"](https://webinars.sap.com/ospo-webinar-series/en/home)
 - [Open Source Publications](https://pages.community.sap.com/topics/open-source/publications)
 - [Jobs](https://jobs.sap.com/search/?q=%22open+source%22)
-- [External Report 2023](https://dam.sap.com/mac/app/e/pdf/preview/embed/NG3Cg8G?ltr=a&rc=10&includeRelatedAssets=true)
+- [SAP Open Source Report 2024](https://d.dam.sap.com/a/wxgtG2E/SAP%20Open%20Source%202024%20Report.pdf)
