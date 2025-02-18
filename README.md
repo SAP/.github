@@ -2,13 +2,13 @@
 
 ![ApeiroRA Logo](https://raw.githubusercontent.com/apeirora/.github/main/.github/assets/ApeiroRA.svg)
 
-:wave: Welcome to the official GitHub presence of ApeiroRA. We are part of the Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS) project launched by the European Union in 2023. Ap
+:wave: Welcome to the official GitHub presence of ApeiroRA. We are part of the Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS) project launched by the European Union in 2023. ApeiroRA's core aim is to create an overarching cloud-edge continuum that is not tied to individual providers. 
 
 ## :globe_with_meridians: IPCEI-CIS?
 
 IPCEI are cross-member-state initiatives defined in [Article 107(3)(b) of the Treaty on the Functioning of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:12008E107). They serve as an important tool for states and the EU to further common strategic interests of the bloc.
 
-The IPCEI-CIS [unifies twelve member states and over 100 partners](https://www.bmwk.de/Redaktion/EN/Artikel/Industry/ipcei-cis.html) aiming to strengthen Europe's digital and technological sovereignty by establishing the first Multi-Provider Cloud-Edge Continuum.
+The IPCEI-CIS [unifies twelve member states and over 100 partners](https://www.bmwk.de/Redaktion/EN/Artikel/Industry/ipcei-cis.html) aiming to strengthen Europe's digital and technological sovereignty by establishing the first multi-provider cloud-edge continuum.
 
 ## :handshake: ApeiroRA and IPCEI-CIS
 
