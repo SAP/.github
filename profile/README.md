@@ -24,7 +24,6 @@ To facilitate a nice environment for all, check out [our code of conduct](https:
 ## :books: Learn More
 
 - [Open Source @ SAP](https://opensource.sap.com)
-- [SAP Open Source Manifesto](https://github.com/SAP/open-source-manifesto)
 - [Open Source Community @ SAP](https://pages.community.sap.com/topics/open-source)
 - [Podcast series "The Open Source Way"](https://podcast.opensap.info/open-source-way/)
 - [Webinar series "SAP Open Source"](https://webinars.sap.com/ospo-webinar-series/en/home)
