@@ -18,6 +18,6 @@ The Open Managed Control Plane (openMCP) enables extensible Infrastructure- and 
 
 We welcome contributions of all kinds, from code to documentation, testing, and design. If you're interested in getting involved, check out our [open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenmcp-project+archived%3Afalse+).
 
-## :blue_heart: Code of Conduct
+## 🌈 Code of Conduct
 
 To facilitate a nice environment for all, check out [our Code of Conduct](https://github.com/openmcp-project/.github/blob/main/CODE_OF_CONDUCT.md).
