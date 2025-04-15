@@ -1,13 +1,5 @@
 name: Move Issues with Status "Done" from Refinement to Backlog Project
 
-on:
-  schedule:
-    - cron: "0 7 * * *"  # Runs at 07:00 UTC every day
-  workflow_dispatch:  # Allows manual trigger
-
-env:
-  ACTIONS_STEP_DEBUG: true
-
 jobs:
   move-done-issues:
     runs-on: ubuntu-latest
