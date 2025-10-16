@@ -9,7 +9,7 @@ Throughout this document, we use terms as defined in the GitHub Glossary.
 
 ## 1. Mission and Scope of the Project
 
-a. The mission of the Project is to simplify cloud service orchestration for application engineers navigating ever-changing requirements and complex cloud environments. In a world where larger organizations invest massive effort to stay on top of their cloud landscapes, we provide an open, reusable, and secure platform that empowers engineers in any company to create traceable cloud setups—without reinventing the wheel
+a. openMCP is a Kubernetes-based platform that extends the power and simplicity of the declarative Kubernetes API to the management of infrastructure and application lifecycles. It enables Infrastructure-as-Data (IaD), empowering platform operators with robust automation, and allowing service consumers to use a unified API experience for all their cloud-native resources. The mission of openMCP is to eliminate the need for various tools with differing workflows, configuration paradigms, and deployment models.
 
 b. The scope of the Project includes collaborative development under the Project Licenses, as defined in the project’s code repositories supporting the mission, including documentation, testing, integration and the creation of other artifacts that aid the development, deployment, operation or adoption of the open source project
 
