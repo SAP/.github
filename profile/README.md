@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="KubeCon Amsterdam Banner" src="kubecon_amsterdam_banner.svg"/>
+</p>
+
 # Welcome to the Open Managed Control Plane (openMCP) Project on GitHub
 
 :wave: Welcome to the official GitHub presence of openMCP. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS).
@@ -25,3 +29,5 @@ To facilitate a nice environment for all, check out [our Code of Conduct](https:
 <p align="center">
   <img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/>
 </p>
+
+
