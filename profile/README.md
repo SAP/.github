@@ -1,33 +1,34 @@
 <p align="center">
-  <img alt="KubeCon Amsterdam Banner" src="kubecon_amsterdam_banner.svg"/>
+  <img alt="OpenControlPlane Logo" src="opencontrolplane_logo.svg"/>
 </p>
 
-# Welcome to the Open Managed Control Plane (openMCP) Project on GitHub
+# OpenControlPlane
 
-:wave: Welcome to the official GitHub presence of openMCP. We are part of [ApeiroRA](https://apeirora.eu/content/projects/) which is an Important Project of Common European Interest - Next Generation Cloud Infrastructures and Services (IPCEI-CIS).
+**Control Plane as a Service** — Get started with cloud-native tools without the operational overhead.
 
-## :globe_with_meridians: ApeiroRA?
+OpenControlPlane extends the Kubernetes API to provide Control Planes and open-source Kubernetes Operators as a Service. Development teams can instantly access tools like Crossplane, Flux, or External Secrets Operator without managing the installation and lifecycle of the tool themselves.
 
-ApeiroRA is a reference blueprint for an open, flexible, secure, and compliant next-generation cloud-edge continuum and therefore a key contribution to IPCEI-CIS. At a high level, the projects of ApeiroRA allow users to provider-agnostically fetch, request and consume services, and for service providers to describe, offer and provision their services.
+**Key features:**
+- **Fully extensible**: Offer your own internal Kubernetes operators through the platform
+- **Self-service**: Teams request what they need via simple Kubernetes resources
+- **Open source**: Runs on any Kubernetes cluster — public, private, or sovereign
 
-By being open source, ApeiroRA provides a cross-border spillover effect, solidifying the foundation and future of the project.
-
-Learn more about ApeiroRA by checking out the official website at [https://apeirora.eu/](https://apeirora.eu/).
-
-## :handshake: openMCP and ApeiroRA
-
-The Open Managed Control Plane (openMCP) enables extensible Infrastructure- and Configuration-as-Data capabilities as a Service. Based on the Kubernetes Resource Model, all resources in the cloud-edge continuum with ApeiroRA are accessible and managed via a declarative API and corresponding controllers and operators. Together with the controller which understand OCM and declarative deployment orchestrators, consumers can subscribe to a product release-train of software producers and implement an automated, GitOps-driven deployment workflow at the edges.
+:book: **Learn more**: [open-control-plane.io](https://open-control-plane.io)
 
 ## :busts_in_silhouette: Get Involved
 
-We welcome contributions of all kinds, from code to documentation, testing, and design. If you're interested in getting involved, check out our [open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenmcp-project+archived%3Afalse+).
+We welcome contributions of all kinds. Check out our [open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+org%3Aopenmcp-project+archived%3Afalse+) to get started.
 
-## 🌈 Code of Conduct
+## :scroll: Code of Conduct
 
-To facilitate a nice environment for all, check out [our Code of Conduct](https://github.com/openmcp-project/.github/blob/main/CODE_OF_CONDUCT.md).
+Please review [our Code of Conduct](https://github.com/openmcp-project/.github/blob/main/CODE_OF_CONDUCT.md).
+
+---
 
 <p align="center">
-  <img alt="Bundesministerium für Wirtschaft und Energie (BMWE)-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="400"/>
+  OpenControlPlane is part of <a href="https://apeirora.eu/content/projects/">ApeiroRA</a>, an EU Important Project of Common European Interest (IPCEI-CIS).
 </p>
 
-
+<p align="center">
+  <img alt="BMWK-EU funding logo" src="https://apeirora.eu/assets/img/BMWK-EU.png" width="300"/>
+</p>
