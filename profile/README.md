@@ -9,7 +9,7 @@ SAP believes that open source is a catalyst for innovation, enabling global mind
 - [Open Source @ SAP](https://opensource.sap.com)
 - [Open Source Community @ SAP](https://pages.community.sap.com/topics/open-source)
 - [Podcast series "The Open Source Way"](https://podcast.opensap.info/open-source-way/)
-- [Webinar series "SAP Open Source"](https://webinars.sap.com/ospo-webinar-series/en/home)
+- [Webinar series "SAP Open Source"](https://events.sap.com/ospo-webinar-series/en_us/home.html)
 - [Open Source Publications](https://pages.community.sap.com/topics/open-source/publications)
 - [SAP Open Source Report 2025](https://d.dam.sap.com/a/CRdeMdL/SAP_Open_Source_Report_2025.pdf)
 - [Jobs](https://jobs.sap.com/search/?q=%22open+source%22)
